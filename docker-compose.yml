@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  heart-disease-api:
+    build: .
+    container_name: heart-disease-fastapi
+    ports:
+      - "8000:8000"
+    restart: always
