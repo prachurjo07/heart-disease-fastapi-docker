@@ -24,3 +24,5 @@ heart-disease-fastapi-docker/
 ├── docker-compose.yml
 ├── requirements.txt
 └── README.md
+## Live Deployment
+Live Render URL: https://heart-disease-fastapi-docker-fgbt.onrender.com/
