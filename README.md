@@ -25,4 +25,5 @@ heart-disease-fastapi-docker/
 ├── requirements.txt
 └── README.md
 ## Live Deployment
-Live Render URL: https://heart-disease-fastapi-docker-fgbt.onrender.com/
+
+[Click here to open the Live Render App](https://heart-disease-fastapi-docker-fgbt.onrender.com/)
